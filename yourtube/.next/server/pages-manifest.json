@@ -1,7 +1,14 @@
 {
+  "/": "pages/index.html",
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/watch/[id]": "pages/watch/[id].js"
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/channel/[id]": "pages/channel/[id].html",
+  "/history": "pages/history.html",
+  "/liked": "pages/liked.html",
+  "/search": "pages/search.html",
+  "/watch-later": "pages/watch-later.html",
+  "/watch/[id]": "pages/watch/[id].html",
+  "/404": "pages/404.html"
 }
