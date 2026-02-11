@@ -8,19 +8,16 @@
     "start": "nodemon index.js",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
-  "eject": "react-scripts eject",
-  "dev": "next dev"
-  
-
-
+    "eject": "react-scripts eject",
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "latest",
-  "react": "latest",
-  "react-dom": "latest",
+    "next": "15.5.8",
+    "react": "latest",
+    "react-dom": "latest",
     "body-parser": "^2.2.0",
     "cors": "^2.8.6",
     "dotenv": "^16.5.0",
