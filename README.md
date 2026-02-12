@@ -188,12 +188,15 @@ The project can be deployed on:
 ![image alt](https://github.com/snehalbolke13/YoutubeProject/blob/41b1c66918c0e8d2edcb3ec1fffc072c4b74d688/youtube_video.png)
 
 **TASK 1:Comment Section Enhancements**
+
 https://github.com/user-attachments/assets/3209013b-2f9d-4f05-a539-a574b18a5cfa
 
 **TASK 2 :Custom Video Player Gestures**
+
 https://github.com/user-attachments/assets/4157dc1b-e876-4613-8808-77a5bba402dc
 
 **TASK 3:VoIP Video Calling Feature**
+
 https://github.com/user-attachments/assets/a9bfd471-922b-4180-864f-0b9794d15d9d
 
 ## 📚 Learning Purpose
