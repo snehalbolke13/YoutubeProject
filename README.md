@@ -188,6 +188,8 @@ The project can be deployed on:
 
 https://github.com/user-attachments/assets/3209013b-2f9d-4f05-a539-a574b18a5cfa
 
+https://github.com/user-attachments/assets/4157dc1b-e876-4613-8808-77a5bba402dc
+
 ## 📚 Learning Purpose
 
 This project is created for:
