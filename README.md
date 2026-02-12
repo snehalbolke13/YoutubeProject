@@ -1,6 +1,6 @@
 # 📺 YouTubeProject
 
-A full-stack YouTube clone web application that allows users to watch videos, interact with content, and experience a modern video-streaming platform interface.
+A full-stack YouTube clone web application that allows users to watch videos, interact with content, and experience a modern video-streaming platform interface..
 
 ---
 
