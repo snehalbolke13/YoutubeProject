@@ -72,7 +72,6 @@ If backend is not running, videos will not load because APIs are served from the
 * JavaScript
 * HTML5
 * CSS3
-* Tailwind CSS (if used)
 
 ### Backend
 
@@ -176,21 +175,27 @@ npm run dev
 The project can be deployed on:
 
 * **Vercel** → Frontend
-* **Render / Railway / Cyclic** → Backend
+* **Render** → Backend
 
 ---
 
 ## 📸 Screenshots
 
+**Screenshot 1: Home Page**
 ![image alt](https://github.com/snehalbolke13/YoutubeProject/blob/cf29193b9896a7be13d2ff82e1ba209abb5349a0/photo.png)
 
+**Screenshot 2: video Page**
 ![image alt](https://github.com/snehalbolke13/YoutubeProject/blob/41b1c66918c0e8d2edcb3ec1fffc072c4b74d688/youtube_video.png)
 
+**TASK 1:Comment Section Enhancements**
 https://github.com/user-attachments/assets/3209013b-2f9d-4f05-a539-a574b18a5cfa
 
+**TASK 2 :Custom Video Player Gestures**
 https://github.com/user-attachments/assets/4157dc1b-e876-4613-8808-77a5bba402dc
 
+**TASK 3:VoIP Video Calling Feature**
 https://github.com/user-attachments/assets/a9bfd471-922b-4180-864f-0b9794d15d9d
+
 ## 📚 Learning Purpose
 
 This project is created for:
@@ -211,12 +216,6 @@ Contributions are welcome!
 3. Commit changes
 4. Push to branch
 5. Create Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
